@@ -13,3 +13,6 @@ A Python program that converts temperature values between Celsius, Fahrenheit, a
 
 Number Guessing Game :
 A simple Python game where players get 3 chances to guess a randomly generated number.
+
+Countdown Timer :
+A simple Python countdown timer that takes time in seconds and displays a live countdown in minutes and seconds until the timer reaches zero.
