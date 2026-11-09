@@ -10,3 +10,6 @@ A Python program that calculates compound interest using principal, rate, and ti
 
 Temperature Conversion :
 A Python program that converts temperature values between Celsius, Fahrenheit, and Kelvin quickly and accurately.
+
+Number Guessing Game :
+A simple Python game where players get 3 chances to guess a randomly generated number.
