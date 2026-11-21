@@ -17,5 +17,8 @@ A simple Python game where players get 3 chances to guess a randomly generated n
 Countdown Timer :
 A simple Python countdown timer that takes time in seconds and displays a live countdown in minutes and seconds until the timer reaches zero.
 
-Report Card Printer:
+Report Card Printer :
 A beginner Python script demonstrating basic data types (string, boolean, integer, float) using `type()` and `isinstance()`.
+
+Employee Profile Generator :
+A beginner Python project that uses string concatenation, f-strings, and slicing to build employee profiles and parse employee codes.
