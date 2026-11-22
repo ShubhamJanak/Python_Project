@@ -25,3 +25,6 @@ A beginner Python project that uses string concatenation, f-strings, and slicing
 
 Employee Profile Validator :
 A Python utility that cleans, validates, and formats employee records (names, emails, phone numbers, addresses, and employee codes) using built-in string methods.
+
+Bill Splitter :
+A Python tool that totals meal costs, adds a tip, and calculates how much each person owes.
