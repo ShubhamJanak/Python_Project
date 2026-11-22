@@ -22,3 +22,6 @@ A beginner Python script demonstrating basic data types (string, boolean, intege
 
 Employee Profile Generator :
 A beginner Python project that uses string concatenation, f-strings, and slicing to build employee profiles and parse employee codes.
+
+Employee Profile Validator :
+A Python utility that cleans, validates, and formats employee records (names, emails, phone numbers, addresses, and employee codes) using built-in string methods.
