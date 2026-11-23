@@ -28,3 +28,6 @@ A Python utility that cleans, validates, and formats employee records (names, em
 
 Bill Splitter :
 A Python tool that totals meal costs, adds a tip, and calculates how much each person owes.
+
+Movie Ticket Calculator : 
+A Python tool that uses booleans and conditional statements to calculate movie ticket prices based on booking details.
