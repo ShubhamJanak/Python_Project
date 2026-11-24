@@ -31,3 +31,6 @@ A Python tool that totals meal costs, adds a tip, and calculates how much each p
 
 Movie Ticket Calculator : 
 A Python tool that uses booleans and conditional statements to calculate movie ticket prices based on booking details.
+
+Travel Weather Planner :
+A Python tool that uses conditional statements to decide whether a commute is possible based on weather, distance, and vehicle availability.
