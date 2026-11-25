@@ -34,3 +34,6 @@ A Python tool that uses booleans and conditional statements to calculate movie t
 
 Travel Weather Planner :
 A Python tool that uses conditional statements to decide whether a commute is possible based on weather, distance, and vehicle availability.
+
+Kitchen Inventory Tracker : 
+A Python tool that uses reusable functions and local and global scope to track and manage kitchen inventory.
